@@ -4,9 +4,7 @@
 
 ## Overview
 
-This repository helps you configure Okteto with predefined SSH host keys when your cluster has limited outbound connectivity, particularly when direct access to port 22 is restricted.
-
-By default, Okteto uses `ssh-keyscan` to dynamically retrieve public SSH keys from source control servers, which requires outbound access on port 22. This repository provides an alternative solution by packaging a static `known_hosts` file within a custom pipeline runner image.
+This repository helps you configure Okteto with predefined list of SSH host keys.
 
 ## Why Use This?
 
