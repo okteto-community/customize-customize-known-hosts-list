@@ -65,6 +65,9 @@ After applying these changes, Okteto will use your static `known_hosts` list whe
 - `okteto pipeline` commands
 - `okteto preview` commands
 
+## Tested Versions
+This community contribution was tested in Okteto 1.31.0
+
 ## Troubleshooting
 
 If you encounter SSH key verification errors:
