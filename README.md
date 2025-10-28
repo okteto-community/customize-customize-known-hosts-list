@@ -1,3 +1,7 @@
+> [!WARNING]
+>  Starting on Okteto 1.37, you can now configure your known_hosts directly via the Okteto Admin UI. [You can learn more about this in our documentation](https://www.okteto.com/docs/reference/known-issues/).
+
+
 # Custom Known Hosts for Okteto Pipelines
 
 > This repository is provided by the community and Okteto does not officially support it.
